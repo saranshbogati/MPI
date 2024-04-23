@@ -12,3 +12,4 @@ open: main_openmp.cpp
 	$(CC) -fopenmp -o open main_openmp.cpp
 clean:
 	rm -f main
+	rm -f open

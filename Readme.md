@@ -35,12 +35,8 @@ Then to run do the following:
 The output will be something like this:
 ```bash
 ...
-iter = 193, Global population count = 364
-iter = 194, Global population count = 344
-iter = 195, Global population count = 342
-iter = 196, Global population count = 376
 iter = 197, Global population count = 368
 iter = 198, Global population count = 370
-Time taken: 0.032550 seconds
+OpenMP Time taken: 0.024197 seconds
 ```
 

@@ -81,7 +81,7 @@ int main(int argc, char *argv[]) {
     }
 
     double end_time = omp_get_wtime();
-    printf("Time taken: %f seconds\n", end_time - start_time);
+    printf("OpenMP Time taken: %f seconds\n", end_time - start_time);
 
     return 0;
 }
