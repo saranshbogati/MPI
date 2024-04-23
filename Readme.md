@@ -40,3 +40,7 @@ iter = 198, Global population count = 370
 OpenMP Time taken: 0.024197 seconds
 ```
 
+#### MPI Path 
+```bash
+export PATH=/usr/lib64/openmpi/bin:$PATH
+```
